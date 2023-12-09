@@ -218,13 +218,6 @@
             <br />
             <sub><b>Zhymabek Roman</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/baddate">
-            <img src="https://avatars.githubusercontent.com/u/37013819?v=4" width="80;" alt="baddate"/>
-            <br />
-            <sub><b>Alex</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
