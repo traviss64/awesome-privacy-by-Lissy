@@ -166,14 +166,14 @@
         <a href="https://github.com/kolaente">
             <img src="https://avatars.githubusercontent.com/u/13721712?v=4" width="80;" alt="kolaente"/>
             <br />
-            <sub><b>kolaente</b></sub>
+            <sub><b>Kolaente</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/magical-heyrovsky">
             <img src="https://avatars.githubusercontent.com/u/101060148?v=4" width="80;" alt="magical-heyrovsky"/>
             <br />
-            <sub><b>magical-heyrovsky</b></sub>
+            <sub><b>Magical-heyrovsky</b></sub>
         </a>
     </td>
     <td align="center">
