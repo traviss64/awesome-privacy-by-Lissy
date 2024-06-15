@@ -216,7 +216,7 @@
         <a href="https://github.com/plplmax">
             <img src="https://avatars.githubusercontent.com/u/50287455?v=4" width="80;" alt="plplmax"/>
             <br />
-            <sub><b>plplmax</b></sub>
+            <sub><b>Plplmax</b></sub>
         </a>
     </td></tr>
 </table>
